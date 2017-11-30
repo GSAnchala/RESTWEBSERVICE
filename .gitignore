@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings
+target
+bin
+*.log
+logs/
+.idea
+*.iml
+.vagrant
+dockerlogs/
+/pen-srv-ws/data
+pen-srv-ws/FFDC/
+pen-srv-ws/mqjms.log*
